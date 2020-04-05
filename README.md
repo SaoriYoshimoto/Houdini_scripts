@@ -1,2 +1,2 @@
-# Houdini_scripts
-# A small sample scripts in Houdini.
+Houdini_scripts
+A small sample scripts in Houdini.
