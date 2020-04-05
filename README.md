@@ -1,2 +1,2 @@
-# TEST
-Houdini FX TD
+# Houdini_scripts
+# A small sample scripts in Houdini.
