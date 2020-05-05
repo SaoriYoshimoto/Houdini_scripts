@@ -106,5 +106,13 @@ class Saori(QMainWindow,QWidget):
         return hline
                 
         
-dialog = Saori()
+''' 
+::sample::
+window = mainWindow()
+window.setParent(hou.ui.mainQtWindow(), QtCore.Qt.Window)
+window .show()
+'''
+hou_win = hou.ui.mainQtWindow()        
+dialog = Saori(parent = hou_win)
 dialog.show()
+
